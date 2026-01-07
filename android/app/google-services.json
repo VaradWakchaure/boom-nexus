@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443131418714",
+    "project_id": "media-boom-797f6",
+    "storage_bucket": "media-boom-797f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443131418714:android:cf7c6388f4d1378c44e063",
+        "android_client_info": {
+          "package_name": "com.example.media_boom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443131418714-gmepbiea3bo5sqrr9baf41fhmr0tk7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkVGvPk4ic4RNjy9WKQ2QgNbw4RZCb7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443131418714-gmepbiea3bo5sqrr9baf41fhmr0tk7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
