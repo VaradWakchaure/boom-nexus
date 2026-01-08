@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'theme/app_theme.dart';
 import 'theme/theme_controller.dart';
-import 'screens/auth_test_page.dart';
+import 'screens/sign_in_page.dart';
 
 
 void main() async {
@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
           theme: AppTheme.lightTheme,
           darkTheme: AppTheme.darkTheme,
           themeMode: themeController.themeMode,
-          home: AuthTestPage(),
+          home: const SignInPage(),
+
         );
       },
     );
